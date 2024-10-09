@@ -9,6 +9,14 @@ body {
   overflow-x: hidden;
 }
 
+.titulo {
+  margin-top: 20px;
+}
+
+.fa-solid {
+  margin: 80px;
+}
+
 header {
   padding: 10px 0;
   text-align: center;
